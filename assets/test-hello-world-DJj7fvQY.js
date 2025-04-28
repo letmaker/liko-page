@@ -1,1 +1,0 @@
-import{$ as o,q as e}from"./liko.es-remNCA1z.js";import"./index-CumCSj91.js";async function i(){const t=new o;await t.init({width:800,height:800}),new e({text:"Hello World",textColor:"#ff0000",fontSize:30,pos:{x:100,y:100},parent:t.stage})}i();

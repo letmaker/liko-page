@@ -1,1 +1,0 @@
-import{$ as s,x as a,a as n,d as o}from"./liko.es-remNCA1z.js";import"./index-CumCSj91.js";async function i(){const e=new s;await e.init({width:800,height:800,bgColor:3355443}),a("TestScript",c);const t=new n;e.stage.addChild(t),t.load("scenes/test-scene.json")}i();class c extends o{onAwake(){console.log("awake")}onUpdate(){this.target.angle++}}

@@ -1,4 +1,4 @@
-import{$ as x,q as e,T as r,C as c,W as a,_ as l}from"./liko.es-remNCA1z.js";import"./index-CumCSj91.js";const o=30;async function h(){const t=new x;await t.init({width:800,height:800,bgColor:3355443}),new e({text:`this is a
+import{$ as x,q as e,T as r,C as c,W as a,_ as l}from"./liko.es-CzfWaBAJ.js";import"./index-Bu-paSGE.js";const o=30;async function h(){const t=new x;await t.init({width:800,height:800,bgColor:3355443}),new e({text:`this is a
 居左`,textColor:"#ff0000",fontSize:o,parent:t.stage}),new e({text:`this is a
 居中`,textColor:"#ff0000",textAlign:"center",pos:{x:200,y:0},fontSize:o,parent:t.stage}),new e({text:`this is a
 居右`,textColor:"#ff0000",textAlign:"right",pos:{x:400,y:0},fontSize:o,parent:t.stage}),new e({text:`this is a
